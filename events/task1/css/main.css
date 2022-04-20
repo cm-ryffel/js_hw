@@ -1,0 +1,22 @@
+*{
+    margin: 10px;
+    padding: 10px;
+}
+div{
+    height: 100px;
+    width: 100px;
+    border: 1px solid;
+    display: inline-block;
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+.red{
+    background-color: red;
+}
+.dinamic{
+    margin-left: 157px;
+}

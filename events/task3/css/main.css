@@ -1,0 +1,21 @@
+body{
+    position: relative;
+}
+div{
+    height: 100px;
+    width: 100px;
+    border: 1px solid;
+    position: absolute;
+}
+#first{
+    background-color: red;
+}
+#second{
+    background-color: green;
+    margin-left: 150px;
+}
+#third{
+    background-color: blue;
+    margin-left: 300px;
+
+}
