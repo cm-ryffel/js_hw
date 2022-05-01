@@ -1,0 +1,22 @@
+iframe {
+    border: 1px solid navy;
+    height: 300px;
+    margin: 30px;
+    width: 300px;
+}
+
+.frames button {
+    margin: 10px 150px;
+}
+.first{
+    margin-left: 100px;
+    display: inline-block;
+}
+.second{
+    display: inline-block;
+    margin-left: 180px;
+}
+.third{
+    display: inline-block;
+    margin-left: 200px;
+}

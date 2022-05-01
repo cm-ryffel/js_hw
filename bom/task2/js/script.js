@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', function(){
-    alert(navigator.languages)
+    document.write(navigator.languages)
   })
